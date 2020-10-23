@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonas\\source\\repos\\Nyous\\Nyous.csproj": {}
+    "C:\\Users\\jonas\\Desktop\\Senai\\JWT_Nyous\\Nyous.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonas\\source\\repos\\Nyous\\Nyous.csproj": {
+    "C:\\Users\\jonas\\Desktop\\Senai\\JWT_Nyous\\Nyous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonas\\source\\repos\\Nyous\\Nyous.csproj",
+        "projectUniqueName": "C:\\Users\\jonas\\Desktop\\Senai\\JWT_Nyous\\Nyous.csproj",
         "projectName": "Nyous",
-        "projectPath": "C:\\Users\\jonas\\source\\repos\\Nyous\\Nyous.csproj",
+        "projectPath": "C:\\Users\\jonas\\Desktop\\Senai\\JWT_Nyous\\Nyous.csproj",
         "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonas\\source\\repos\\Nyous\\obj\\",
+        "outputPath": "C:\\Users\\jonas\\Desktop\\Senai\\JWT_Nyous\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,31 +40,31 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
